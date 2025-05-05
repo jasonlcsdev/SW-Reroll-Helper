@@ -35,7 +35,7 @@ This script automates the process of resetting a Summoners War account while kee
 
 ## Usage
 
-1. Ensure your Android devices are connected via USB and USB debugging is enabled.
+1. Ensure your Android devices are connected.
 2. Run the script:
     ```sh
     python main.py
